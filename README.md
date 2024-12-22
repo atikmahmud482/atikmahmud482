@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Web Development Project.
 - 🤔 I’m looking for help with Web Development.
 - 💬 Ask me about Web Development.
-- 📫 How to reach me: Everything on my discription.
+- 📫 How to reach me: Everything on my Social discription.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love code.
 - About Me:
