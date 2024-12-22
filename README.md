@@ -4,11 +4,10 @@
 - 👯 I’m looking to collaborate on Web Development Project.
 - 🤔 I’m looking for help with Web Development.
 - 💬 Ask me about Web Development.
-- 📫 How to reach me: Everything on my Socials discription.
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: Everything on my Socials description.
 - ⚡ Fun fact: I love code.
 - About Me:
-  Hi, I'm Atik-Al-Mahmud, a Bangladesh's dedicated Frontend Web Developer. With 1 year of practical exprience, I love building custom websites.
+  Hi, I'm Atik-Al-Mahmud,a dedicated Frontend Web Developer from Bangladesh.With 1 year of practical experience, I love building custom websites.
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/atikmahmud6) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/atikmahmud.atikmahmud.564) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atik-al-mahmud-8b6628340) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MahmudAl34421) 
 
