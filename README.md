@@ -50,13 +50,13 @@ Passionate Software Developer | Web Design Enthusiast
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikmahmud482&hide_border=true&layout=compact" align="right" /></div>
 
-<br>
-[!(https://git-hub-streak-stats.vercel.app?user=atikmahmud482&theme=dark)](https://git.io/streak-stats)
-</br>
-
 </td></tr></table>  
 
 <br/>  
+
+
+[!(https://git-hub-streak-stats.vercel.app?user=atikmahmud482&theme=dark)](https://git.io/streak-stats)
+
 
   
 
