@@ -42,32 +42,30 @@ Passionate Software Developer | Web Design Enthusiast
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table>
+  <tr>
+  <td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atikmahmud482&show_icons=true&count_private=true&hide_border=true" align="left" />
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=atikmahmud482&theme=dark&show_icons=true&count_private=true&hide_border=true &layout =compact" align="left" /></div>
 
-</td><td valign="top" width="50%">
+</td>
+<td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikmahmud482&hide_border=true&layout=compact" align="right" /></div>
-
-</td></tr></table>  
-
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikmahmud482&theme=dark&hide_border=true&layout=compact" align="right" /></div>
+</td>
+</tr>
+</table>  
 <br/>  
-
-
-[!(https://git-hub-streak-stats.vercel.app?user=atikmahmud482&theme=dark)](https://git.io/streak-stats)
-
+<br>
+<div align = "center"><img src="https://streak-stats.demolab.com?user=atikmahmud482&theme=dark&card_width=494&card_height=194&type=png" alt="GitHub Streak" /></div>
+</br>
+<br/>  
 
   
 
 <br/>  
 
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=atikmahmud482&&style=flat-square" align="center" />
+<div align="center"><img src="https://komarev.com/ghpvc/?username=atikmahmud482&&style=flat-square" align="center" />
 </div>  
   
 
