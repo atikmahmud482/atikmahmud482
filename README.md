@@ -1,11 +1,3 @@
-Hi, I'm Atik-Al-Mahmud,a dedicated Frontend Web Developer from Bangladesh.With 1 year of practical experience, I love building custom websites.
-# 📊 GitHub Stats:
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=atikmahmud482&theme=dark)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atikmahmud482&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=atikmahmud482&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
 <img src="https://github.com/ViktorSvertoka/ViktorSvertoka/blob/main/assets/github.gif?raw=true" align="center" height="100" width="" />
@@ -59,7 +51,7 @@ Passionate Software Developer | Web Design Enthusiast
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikmahmud482&hide_border=true&layout=compact" align="right" /></div>
 
 <br>
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=atikmahmud482&theme=dark)](https://git.io/streak-stats)
+[!(https://git-hub-streak-stats.vercel.app?user=atikmahmud482&theme=dark)](https://git.io/streak-stats)
 </br>
 
 </td></tr></table>  
