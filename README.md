@@ -42,43 +42,21 @@ Passionate Software Developer | Web Design Enthusiast
 
 
 ## Github Stats  
-<table>
-  <tr>
-  <td valign="top" width="50%">
+<table><tr><td valign="top" width="50%">
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=atikmahmud482&theme=dark&show_icons=true&count_private=true&hide_border=true &layout =compact" align="left" /></div>
+<img src="https://github-readme-stats.vercel.app/api?username=atikmahmud482&theme=dark&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td>
-<td valign="top" width="50%">
+</td><td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikmahmud482&theme=dark&hide_border=true&layout=compact" align="right" /></div>
-</td>
-</tr>
-</table>  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikmahmud482&hide_border=true&theme=dark&layout=compact" align="right" /></div>
+
+</td></tr></table> 
 <br/>  
 <br>
 <div align = "center"><img src="https://streak-stats.demolab.com?user=atikmahmud482&theme=dark&card_width=494&card_height=194&type=png" alt="GitHub Streak" /></div>
 </br>
-<br/>  
-
-  
-
-<br/>  
-
+<br/><br/>  
 <div align="center"><img src="https://komarev.com/ghpvc/?username=atikmahmud482&&style=flat-square" align="center" />
 </div>  
-  
-
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/atikmahmud482" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
