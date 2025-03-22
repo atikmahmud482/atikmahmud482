@@ -74,7 +74,7 @@ Passionate Software Developer | Web Design Enthusiast
       </td>
   </tr>
     <td align="center" width="88">
-        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
+        <img src="./10-sass.svg" alt="Sass" width="44" height="44"/>
       <br>Sass
     </td>
 <!--     <td align="center" width="88"> 
@@ -90,7 +90,7 @@ Passionate Software Developer | Web Design Enthusiast
       <br>Redux
     </td>
       <td align="center" width="88">
-        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
+        <img src="./14-postman.svg" alt="Postman" width="44" height="44"/>
       <br>Postman
     </td>
       </td>
