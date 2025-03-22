@@ -1,62 +1,154 @@
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div align="center">
-<img src="https://github.com/ViktorSvertoka/ViktorSvertoka/blob/main/assets/github.gif?raw=true" align="center" height="100" width="" />
-</div>  
+<div id="header" align="center">
+
+<img src="./github.gif" width="100"/>
+
+<h1>
+Hey there, I'm Atik!
+<img src="./giphy.gif" width="30px" alt="GIF">
+</h1>
+
+   </div>
   
+### About Me :
 
-## <div align="center">Hey there, I'm Atik!</div>  
+Passionate Software Developer | Web Design Enthusiast
+
+### Languages :
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table  align="center">
+  <tr>
+    
+        Bengali - Native
+        
+  </tr>
+
+  <tr>
+    
+        English - Pre-Intermediate
+        
+  </tr>
+</table>
+</div>
+
+### My stack and tools :
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+     <td align="center"  width="88">
+         <img src="./01-html5.svg" alt="HTML5" width="44" height="44"/>
+      <br>HTML5
+    </td>
+    <td align="center" width="88">
+        <img src="./02-css3.svg" alt="CSS3" width="44" height="44"/>
+      <br>CSS3
+    </td>
+<td align="center" width="88">
+         <img src="./03-javascript.svg" alt="JS" width="44" height="44"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="88">
+        <img src="./04-typescript.svg" alt="TS" width="44" height="44"/>
+      <br>TypeScript
+    </td>
+<!--     <td align="center" width="88">
+        <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
+      <br>Python
+    </td> -->
+    <td align="center" width="88">
+        <img src="./06-react.svg" alt="React" width="44" height="44"/>
+      <br>React.js
+    </td>
+    <td align="center" width="88">
+        <img src="./07-nextjs.svg" alt="Next.js" width="44" height="44"/>
+      <br>Next.js
+    </td>
+    <td align="center" width="88">
+      <img src="./08-nodejs.svg" alt="Node.js" width="44" height="44"/>
+      <br>Node.js
+    </td>
+        <td align="center" width="88">
+       <img src="./09-sql.svg" alt="SQL" width="44" height="44"/>
+      <br>SQL
+      </td>
+  </tr>
+<!--     <td align="center" width="88">
+        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
+      <br>Sass
+    </td> -->
+<!--     <td align="center" width="88"> 
+        <img src="./images/11-bem.svg" alt="Bem" width="44" height="44"/>
+      <br>BEM
+    </td> -->
+    <td align="center"  width="88">
+        <img src="./12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
+      <br>Tailwind
+    </td>
+    <td align="center" width="88">
+        <img src="./13-redux.svg" alt="Redux" width="44" height="44"/>
+      <br>Redux
+    </td>
+<!--       <td align="center" width="88">
+        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
+      <br>Postman
+    </td> -->
+      </td>
+      <td align="center" width="88">
+        <img src="./15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
+      <br>MongoDB
+     </td>
+     <td align="center" width="88">
+        <img src="./16-git.svg" alt="Git" width="44" height="44"/>
+      <br>Git
+    </td>
+  <td align="center" width="88">
+        <img src="./17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
+      <br>VSCode
+     </td>
+  <td align="center" width="88">
+        <img src="./18-figma.svg" alt="Figma" width="44" height="44"/>
+      <br>Figma
+     </td>
+</table>
+</div>
+
+### GitHub Stats :
+
+<table align="center">
+  <tr>
+  <td>
+  <a href="https://github.com/atikmahmud482/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=atikmahmud482&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Atik Al Mahmud github stats" /></a>
+  </td>
+  <td>
+  <a href="https://github.com/atikmahmud482/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikmahmud482&layout=compact&theme=buefy&hide_border=true" /></a>
+  </td>
+  </tr>
+  <tr>
+  <td colspan=2 align="center">
+  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=atikmahmud482&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Atik Al Mahmud GitHub Readme Streak Stats" /> </a>
+  </td>
+  </tr>
+</table>
+
+<div align=center> 
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Love+joking,+got+a+great+sense+of+humor.+;" alt="Fun Facts" /> 
+</div>
   
-
-
-
-### About Me :  
-Passionate Software Developer | Web Design Enthusiast  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=atikmahmud482&show_icons=true&theme=dark&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikmahmud482&hide_border=true&theme=dark&layout=compact" align="right" style="width: 100%" /></div>
-
-</td></tr></table> 
-<br/>  
 <br>
-<div align = "center"><img src="https://streak-stats.demolab.com?user=atikmahmud482&theme=dark&card_width=494&card_height=194&type=png" alt="GitHub Streak" /></div>
-</br>
-<br/><br/>  
-<div align="center"><img src="https://komarev.com/ghpvc/?username=atikmahmud482&&style=flat-square" align="center" />
-</div>  
-<br/>  
 
+<div align="center">
+<a href="https://u8views.com/github/atikmahmud482"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
+</div>
+
+<br>
+
+<div align="center">
+<a href="https://www.codewars.com/users/atikmahmud482"><img src="https://www.codewars.com/users/atikmahmud482/badges/small">
+</div>
+
+<br>
+
+<div align="center">
+<a href="https://www.buymeacoffee.com/atikmahmud482" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
+</div>
