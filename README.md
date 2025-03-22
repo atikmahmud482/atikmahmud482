@@ -44,11 +44,11 @@ Passionate Software Developer | Web Design Enthusiast
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atikmahmud482&theme=dark&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=atikmahmud482&show_icons=true&theme=dark&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikmahmud482&hide_border=true&theme=dark&layout=compact" align="right" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikmahmud482&hide_border=true&theme=dark&layout=compact" align="right" style="width: 100%" /></div>
 
 </td></tr></table> 
 <br/>  
