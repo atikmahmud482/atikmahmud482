@@ -73,10 +73,10 @@ Passionate Software Developer | Web Design Enthusiast
       <br>SQL
       </td>
   </tr>
-<!--     <td align="center" width="88">
+    <td align="center" width="88">
         <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
       <br>Sass
-    </td> -->
+    </td>
 <!--     <td align="center" width="88"> 
         <img src="./images/11-bem.svg" alt="Bem" width="44" height="44"/>
       <br>BEM
@@ -89,10 +89,10 @@ Passionate Software Developer | Web Design Enthusiast
         <img src="./13-redux.svg" alt="Redux" width="44" height="44"/>
       <br>Redux
     </td>
-<!--       <td align="center" width="88">
+      <td align="center" width="88">
         <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
       <br>Postman
-    </td> -->
+    </td>
       </td>
       <td align="center" width="88">
         <img src="./15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
