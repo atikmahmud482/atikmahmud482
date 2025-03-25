@@ -126,7 +126,7 @@ Passionate Software Developer | Web Design Enthusiast
   </tr>
   <tr>
   <td colspan=2 align="center">
-     [![GitHub Streak](https://streak-stats.demolab.com?user=atikmahmud482)](https://git.io/streak-stats)
+     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=atikmahmud482" alt="GitHub Streak" /></a>
 <!--   <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=atikmahmud482&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Atik Al Mahmud GitHub Readme Streak Stats" /> </a> -->
   </td>
   </tr>
